@@ -43,6 +43,10 @@
 <h4 align="left">Framework:</h4>
 <p align="center">
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" hspace="10"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" hspace="10" />
+</a>
+
 </p>
 
 <h4 align="left">Software:</h4>
