@@ -2,7 +2,7 @@
 <h3 align="center">Hi, my name is <b>Emanuele</b> and I am Computer Scientist. I am very fascinated by the design and accessibility of all the applications that are on the web, on a smartphone or on a PC.</h3>
 <h3 align="center">________________________________________________________________________________________</h3><br>
 
-### 🌱 I’m currently a student at the [University of Genoa](https://unige.it/it/)
+### 🌱 I’m currently a student at the [University of Genoa](https://unige.it/it/) and backend developer
 
 ### 📫 How to reach me **emanuele.macera@protonmail.com**
 
@@ -18,8 +18,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="10"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="10"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="10"/> </a>
-<a href="https://www.sql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" width="40" height="40" hspace="10" /> </a>
 </p>
 
 <h4 align="left">Frontend Development:</h4>
