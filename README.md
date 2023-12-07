@@ -6,8 +6,6 @@
 
 ### 📫 How to reach me **emanuele.macera@protonmail.com**
 
-### ⚡ Fun fact: **I'm a bit crazy, it's a fact**
-
 <br>
 <h4 align="left">Programming Languages:</h4>
 <p align="center">
