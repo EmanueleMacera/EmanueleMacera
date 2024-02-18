@@ -2,7 +2,7 @@
 <h3 align="center">Hi, my name is <b>Emanuele</b> and I am Computer Scientist. I am very fascinated by the design and accessibility of all the applications that are on the web, on a smartphone or on a PC.</h3>
 <h3 align="center">________________________________________________________________________________________</h3><br>
 
-### 🌱 I’m currently a student at the [University of Genoa](https://unige.it/it/) and backend developer
+### 🌱 I’m currently a student at the [University of Genoa](https://unige.it/it/) and full-stack developer
 
 ### 📫 How to reach me **emanuele.macera@protonmail.com**
 
