@@ -55,7 +55,7 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40" hspace="10" />
     </a>
-    <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original-wordmark.svg" alt="ajax" width="40" height="40" hspace="10"/> </a>
+    <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/ajax.png" alt="ajax" width="40" height="40" hspace="10"/> </a>
   </p>
 
   <h4 align="left">Software:</h4>
