@@ -1,10 +1,14 @@
-<h1 align="center"><i>Welcome to my github!</i> 👋</h1>
-<h3 align="center">Hi, my name is <b>Emanuele</b> and I am Computer Scientist. I am very fascinated by the design and accessibility of all the applications that are on the web, on a smartphone or on a PC.</h3>
+<h1 align="center"><i>Welcome to my GitHub!</i> 👋</h1>
+<h3 align="center">Hi, I'm <b>Emanuele</b>, a passionate Computer Scientist with a keen eye for design and accessibility in web, mobile, and desktop applications.</h3>
 <h3 align="center">________________________________________________________________________________________</h3><br>
 
-### 🌱 I’m currently a student at the [University of Genoa](https://unige.it/it/) and full-stack developer
+### 🌱 I’m currently a full-stack developer and student at the [University of Genoa](https://unige.it/it/).
 
-### 📫 How to reach me **emanuele.macera@protonmail.com**
+- 💼 Working at [Dolidays](https://www.dolidays.com/) since April 2023, where I specialize in crafting software solutions using Laravel (PHP), JavaScript, Ajax, HTML, and CSS.
+- 🚀 As a full-stack developer, I thrive in every aspect of software development, from frontend design to backend implementation.
+- 📫 Feel free to reach out to me at **emanuele.macera@protonmail.com**.
+
+
 
 <br>
 <h4 align="left">Programming Languages:</h4>
