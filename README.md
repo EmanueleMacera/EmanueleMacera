@@ -12,7 +12,7 @@
 
   <h3 align="center">🌱 About Me</h3>
   <p align="center">
-    I am currently a full-stack developer and student at the <a href="https://unige.it/it/" target="_blank" rel="noreferrer">University of Genoa</a>. Working at <a href="https://www.dolidays.com/" target="_blank" rel="noreferrer">Dolidays</a> since April 2023 as the Lead Software, specializing in crafting software solutions using Laravel (PHP), JavaScript, jQuery, HTML, and CSS. Feel free to reach out to me at <a href="mailto:emanuele.macera@protonmail.com">emanuele.macera@protonmail.com</a>.
+    I am currently a full-stack developer and student at the <a href="https://unige.it/it/" target="_blank" rel="noreferrer">University of Genoa</a>. Working at <a href="https://www.dolidays.com/" target="_blank" rel="noreferrer">Dolidays</a> since April 2023 as the Lead Developer, specializing in crafting software solutions using Laravel (PHP), JavaScript, jQuery, HTML, and CSS. Feel free to reach out to me at <a href="mailto:emanuele.macera@protonmail.com">emanuele.macera@protonmail.com</a>.
   </p>
 
   <h3 align="center">💼 Technologies I Use</h3>
