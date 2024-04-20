@@ -12,7 +12,7 @@
 
   <h3 align="center">🌱 About Me</h3>
   <p align="center">
-    I am currently a full-stack developer and student at the <a href="https://unige.it/it/" target="_blank" rel="noreferrer">University of Genoa</a>. Working at <a href="https://www.dolidays.com/" target="_blank" rel="noreferrer">Dolidays</a> since April 2023, specializing in crafting software solutions using Laravel (PHP), JavaScript, jQuery, HTML, and CSS. Feel free to reach out to me at <a href="mailto:emanuele.macera@protonmail.com">emanuele.macera@protonmail.com</a>.
+    I am currently a full-stack developer and student at the <a href="https://unige.it/it/" target="_blank" rel="noreferrer">University of Genoa</a>. Working at <a href="https://www.dolidays.com/" target="_blank" rel="noreferrer">Dolidays</a> since April 2023 as the Lead Software, specializing in crafting software solutions using Laravel (PHP), JavaScript, jQuery, HTML, and CSS. Feel free to reach out to me at <a href="mailto:emanuele.macera@protonmail.com">emanuele.macera@protonmail.com</a>.
   </p>
 
   <h3 align="center">💼 Technologies I Use</h3>
@@ -55,13 +55,18 @@
       <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40" hspace="10" />
     </a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40" hspace="10"/> </a>
-
   </p>
 
   <h4 align="left">Software:</h4>
   <p align="center">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" hspace="10"/> </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" hspace="10"/> </a>
+  </p>
+
+  <!-- New Section for GitHub Repositories -->
+  <h3 align="center">📂 GitHub Repositories</h3>
+  <p align="center">
+    In this GitHub, you will find repositories containing projects for university exams and personal projects. The level and quality of these projects vary based on my experience at that time.
   </p>
 
 </body>
