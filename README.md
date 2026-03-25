@@ -1,73 +1,101 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+<h1 align="center"><i>Welcome to my GitHub!</i> 👋</h1>
 
-  <h1 align="center"><i>Welcome to my GitHub!</i> 👋</h1>
-  <h3 align="center">Hi, I'm <b>Emanuele</b>, a passionate Computer Scientist with a keen eye for design and accessibility in web, mobile, and desktop applications.</h3>
-  <h3 align="center">________________________________________________________________________________________</h3>
+<h3 align="center">
+Hi, I'm <b>Emanuele Macera</b> — Computer Scientist, Web Developer and Software Engineer passionate about building clean, accessible and well-designed digital products.
+</h3>
 
-  <h3 align="center">🌱 About Me</h3>
-  <p align="center">
-    Working at <a href="https://www.dolidays.com/" target="_blank" rel="noreferrer">Dolidays</a> since April 2023 as the Lead Developer, specializing in crafting software solutions using Laravel (PHP), JavaScript, jQuery, HTML, and CSS. Feel free to reach out to me at <a href="mailto:emanuele.macera@protonmail.com">emanuele.macera@protonmail.com</a>.
-  </p>
+<p align="center">
+🌐 Portfolio: <a href="https://emanuelemacera.com/">emanuelemacera.com</a>
+</p>
 
-  <h3 align="center">💼 Technologies I Use</h3>
+<p align="center">
+<a href="https://ko-fi.com/M4M61WL9RH">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
+</a>
+</p>
 
-  <h4 align="left">Programming Languages:</h4>
-  <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="10"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="10"/> </a>
-    <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40" hspace="10"/> </a>
-  </p>
+---
 
-  <h4 align="left">Frontend Development:</h4>
-  <p align="center">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" hspace="10"/> </a>
-  </p>
+## 🌱 About Me
 
-  <h4 align="left">Database:</h4>
-  <p align="center">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" hspace="10"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40" hspace="10" /> </a>
-  </p>
+I'm a developer focused on building **web applications, software tools and digital platforms** with attention to **design, usability and accessibility**.
 
-  <h4 align="left">Other:</h4>
-  <p align="center">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" hspace="10"/> </a>
-  </p>
+💼 Currently **Lead Developer at Dolidays (since April 2023)** where I design and build software solutions using modern web technologies.
 
-  <h4 align="left">Framework:</h4>
-  <p align="center">
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" hspace="10"/> </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40" hspace="10" />
-    </a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40" hspace="10"/> </a>
-  </p>
+📫 Contact me:
+**[emanuele.macera@protonmail.com](mailto:emanuele.macera@protonmail.com)**
 
-  <h4 align="left">Software:</h4>
-  <p align="center">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" hspace="10"/> </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" hspace="10"/> </a>
-  </p>
+---
 
-  <!-- New Section for GitHub Repositories -->
-  <h3 align="center">📂 GitHub Repositories</h3>
-  <p align="center">
-    In this GitHub, you will find repositories containing projects for university exams and personal projects. The level and quality of these projects vary based on my experience at that time.
-  </p>
+## 🚀 Featured Project
 
-</body>
-</html>
+### 🔮 MyDeckStats
+
+One of my most important projects.
+
+**MyDeckStats** is a platform dedicated to **deck tracking and statistics for trading card games**, designed to help players analyze performance and improve their strategies.
+
+🌐 https://mydeckstats.com/
+
+---
+
+## 💼 Technologies I Use
+
+### Programming Languages
+
+<p align="center">
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+</p>
+
+### Frontend Development
+
+<p align="center">
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+### Frameworks
+
+<p align="center">
+<a href="https://laravel.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+### Databases
+
+<p align="center">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+### Tools & Software
+
+<p align="center">
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📂 Repositories
+
+In this GitHub profile you will find:
+
+• University projects
+• Personal experiments
+• Web platforms and software tools
+
+The quality and complexity vary depending on the time they were developed and the experience I had at that moment.
+
+---
+
+⭐ If you like my work, feel free to **star a repository** or support me on **Ko-fi**!
