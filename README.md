@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋 I'm Emanuele Macera</h1>
-<h3 align="center">Computer Scientist • Web Developer • Software Engineer</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Emanuele%20Macera&fontSize=45&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">
+Computer Scientist • Web Developer • Software Engineer
+</h3>
 
 <p align="center">
-I design and build web platforms, software tools and digital experiences with a strong focus on usability, accessibility and clean design.
+I design and build web platforms, software tools and digital products with a strong focus on usability, accessibility and clean architecture.
 </p>
 
 <p align="center">
@@ -12,8 +17,12 @@ I design and build web platforms, software tools and digital experiences with a 
 
 <p align="center">
 <a href="https://ko-fi.com/M4M61WL9RH">
-<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
+<img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
 </a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=emanuelemacera&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -21,9 +30,9 @@ I design and build web platforms, software tools and digital experiences with a 
 # 👨‍💻 About Me
 
 * 💼 **Lead Developer at Dolidays** (since April 2023)
-* 🧠 Computer Scientist focused on **web platforms, software architecture and product design**
-* 🛠 I build **scalable web applications and digital platforms**
-* 🎯 Strong focus on **performance, accessibility and clean UI**
+* 🧠 Computer Scientist focused on **web platforms and software architecture**
+* 🛠 I build **web applications, platforms and developer tools**
+* 🎯 Focus on **performance, accessibility and clean UI**
 
 More about me →
 🌐 https://emanuelemacera.com/
@@ -81,7 +90,7 @@ One of my most important projects.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=emanuelemacera&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emanuelemacera&show_icons=true&theme=tokyonight&count_private=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelemacera&layout=compact&theme=tokyonight"/>
 
@@ -92,7 +101,19 @@ One of my most important projects.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=emanuelemacera&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=emanuelemacera&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuelemacera&theme=tokyo-night"/>
+
 </p>
 
 ---
