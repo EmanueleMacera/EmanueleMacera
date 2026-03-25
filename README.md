@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Emanuele%20Macera&fontSize=46&fontColor=ffffff&fontAlignY=38" alt="Emanuele Macera banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2430,100:2E5B8C&height=240&section=header&text=Emanuele%20Macera&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Scientist%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=60&descSize=18" alt="Emanuele Macera banner" />
 </p>
 
-<h1 align="center">Emanuele Macera</h1>
-<h3 align="center">Computer Scientist • Web Developer • Software Engineer</h3>
-
 <p align="center">
-I design and build web platforms, software tools and digital products with a strong focus on usability, accessibility, performance and clean architecture.
+  I build web platforms, software tools and digital products with a strong focus on architecture, usability, accessibility and performance.
 </p>
 
 <p align="center">
@@ -16,34 +13,39 @@ I design and build web platforms, software tools and digital products with a str
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emanuelemacera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=emanuelemacera&label=Profile%20views&color=2E5B8C&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## About Me
+## Profile
 
-I am a Computer Scientist and software developer focused on building reliable digital products, web applications and developer-oriented platforms.
+I am a Computer Scientist and software engineer focused on designing and developing products that are reliable, maintainable and built to last.
 
-I care about writing software that is maintainable, scalable and pleasant to use, with particular attention to:
-- clean architecture
-- performance optimization
-- accessibility
-- usability
-- long-term product quality
+My work sits at the intersection of engineering quality and product thinking: I care about how software is structured internally just as much as how it feels to the people using it.
 
-I currently work as **Lead Developer at Dolidays** and spend most of my time designing and shipping web platforms, internal tools and product features.
-
-More about me:  
-**Portfolio:** https://emanuelemacera.com/
+Today I work as **Lead Developer at Dolidays**, where I contribute to the development of web platforms, product features and technical solutions with attention to code quality, scalability and long-term sustainability.
 
 ---
 
-## Featured Project
+## What I Focus On
+
+- web applications and digital platforms
+- software architecture and maintainable systems
+- performance and optimization
+- accessibility and usability
+- clean interfaces and developer-friendly workflows
+- product-oriented engineering
+
+---
+
+## Selected Project
 
 ### MyDeckStats
 
-**MyDeckStats** is one of my most relevant projects: a platform built to track deck performance and statistics for trading card games, helping players analyze strategies and improve their gameplay with better data.
+**MyDeckStats** is one of the projects that best represents how I work.
+
+It is a platform built to help trading card game players track deck performance, analyze statistics and make better decisions through data. The project combines product design, feature development, usability and technical structure in a single ecosystem.
 
 **Website:** https://mydeckstats.com/
 
@@ -51,38 +53,17 @@ More about me:
 
 ## Tech Stack
 
-### Core Technologies
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" alt="PHP" />
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="45" alt="Laravel" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="44" alt="PHP" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="44" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="44" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="44" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" alt="Git" />
 </p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap" />
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git" />
-</p>
-
-### Additional Skills
-
-- REST API integrations
-- SEO optimization
-- web performance optimization
-- analytics integration
-- software architecture
-- product-oriented development
 
 ---
 
@@ -103,31 +84,22 @@ More about me:
 
 ---
 
-## GitHub Streak
+## Repository Notes
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=emanuelemacera&theme=tokyonight&include_all_commits=true"
-    alt="GitHub streak"
-  />
-</p>
+This profile includes different kinds of work developed across different stages of my journey:
 
----
-
-## What You Will Find Here
-
-This GitHub profile collects projects developed across different stages of my journey, including:
-- university work
-- experiments and prototypes
+- university projects
+- product experiments and prototypes
 - web applications
 - personal tools
-- product ideas and technical explorations
+- technical explorations
 
-Some repositories reflect different moments of experience and maturity, but together they represent how I think, build and evolve as an engineer.
+Some repositories are more polished than others, but together they reflect how I think, learn, build and improve over time.
 
 ---
 
-## Support
+## Elsewhere
 
-If you like my work, feel free to **star a repository** or support me on **Ko-fi**:  
-https://ko-fi.com/M4M61WL9RH
+- **Portfolio:** https://emanuelemacera.com/
+- **Email:** emanuele.macera@protonmail.com
+- **Support:** https://ko-fi.com/M4M61WL9RH
