@@ -67,23 +67,6 @@ It is a platform built to help trading card game players track deck performance,
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-brown-76.vercel.app/api?username=emanuelemacera&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
-    height="170"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-eight-brown-76.vercel.app/api/top-langs/?username=emanuelemacera&layout=compact&theme=tokyonight&langs_count=8"
-    height="170"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ## Repository Notes
 
 This profile includes different kinds of work developed across different stages of my journey:
